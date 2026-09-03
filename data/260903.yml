@@ -1,17 +1,19 @@
 about:
-  description: Tencent Cloud API 3.0 Command Line Interface
+  description:
+  |
+    Tencent Cloud API 3.0 Command Line Interface
   license: Apache-2.0
   homepage: 
   head: bd780a7
   archived: false
   latestVersion: 3.0.13.1
-  collectedAt: 2026-09-03T05:30:51Z
+  collectedAt: 2026-09-03T22:34:25Z
 timeline:
   created: 2018-04-24
   lastCommit: 2026-09-02
   lastRelease: 2018-07-02
 popularity:
-  star: 131
+  star: 132
   watcher: 2
   fork: 32
   release: 1
@@ -21,7 +23,7 @@ popularity:
 language:
   Python: 52484136
   Dockerfile: 82
-totalLine: 52484218
+totalBytes: 52484218
 recent:
   last30d:
     since: 2026-08-04

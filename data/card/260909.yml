@@ -7,7 +7,7 @@ about:
   latestVersion: "3.0.13.1"
   latestRelease: "3.0.13.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:54:08Z
+  collectedAt: 2026-09-09T19:09:45Z
 timeline:
   created: 2018-04-24
   lastCommit: 2026-09-08
@@ -84,7 +84,7 @@ total:
   commit: 1685
 ---
 path: /home/runner/.x-repo/github.com/TencentCloud/tencentcloud-cli
-collectedAt: 2026-09-09T04:55:52Z
+collectedAt: 2026-09-09T19:11:42Z
 loc:
   Json:
     code: 2483828

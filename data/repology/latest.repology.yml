@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: tencentcloud-cli
+  binname: tencentcloud-cli
+  visiblename: tencentcloud-cli
+  version: 3.1.113.1
+  origversion: 3.1.113.1-1
+  status: unique
+  summary: Tencent Cloud API 3.0 Command Line Interface
+  maintainers:
+    - mapk0y@aur
+  licenses:
+    - Apache-2.0

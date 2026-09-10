@@ -2,15 +2,15 @@ about:
   description: "Tencent Cloud API 3.0 Command Line Interface"
   license: Apache-2.0
   homepage: 
-  head: aa4b7ba
+  head: 708ab67
   archived: false
   latestVersion: "3.0.13.1"
   latestRelease: "3.0.13.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:43:37Z
+  collectedAt: 2026-09-10T20:58:59Z
 timeline:
   created: 2018-04-24
-  lastCommit: 2026-09-09
+  lastCommit: 2026-09-10
   lastVersion: 2018-07-02
   lastRelease: 2018-07-02
   lastPrerelease: 
@@ -23,9 +23,9 @@ popularity:
   pullRequest: 94
   issue: 40
 language:
-  Python: 52952752
+  Python: 53046321
   Dockerfile: 82
-totalBytes: 52952834
+totalBytes: 53046403
 recent:
   last30d:
     since: 2026-08-11
@@ -34,7 +34,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 2
-    commit: 21
+    commit: 0
   last60d:
     since: 2026-07-12
     release: 0
@@ -42,7 +42,7 @@ recent:
     openPR: 2
     closedIssue: 1
     openIssue: 3
-    commit: 41
+    commit: 0
   last90d:
     since: 2026-06-12
     release: 0
@@ -50,7 +50,7 @@ recent:
     openPR: 2
     closedIssue: 1
     openIssue: 3
-    commit: 63
+    commit: 0
   last180d:
     since: 2026-03-14
     release: 0
@@ -58,7 +58,7 @@ recent:
     openPR: 4
     closedIssue: 1
     openIssue: 3
-    commit: 124
+    commit: 0
   last360d:
     since: 2025-09-15
     release: 0
@@ -66,7 +66,7 @@ recent:
     openPR: 6
     closedIssue: 1
     openIssue: 4
-    commit: 212
+    commit: 0
   last720d:
     since: 2024-09-20
     release: 0
@@ -74,27 +74,27 @@ recent:
     openPR: 9
     closedIssue: 3
     openIssue: 5
-    commit: 414
+    commit: 415
 total:
   release: 1
   mergedPR: 67
   openPR: 9
   closedIssue: 32
   openIssue: 8
-  commit: 1686
+  commit: 1687
 ---
 path: /home/runner/.x-repo/github.com/TencentCloud/tencentcloud-cli
-collectedAt: 2026-09-10T16:45:15Z
+collectedAt: 2026-09-10T21:00:23Z
 loc:
   Json:
-    code: 2485727
+    code: 2492004
     comments: 0
     blanks: 0
     files: 594
   Python:
-    code: 899137
+    code: 900677
     comments: 1867
-    blanks: 58196
+    blanks: 58280
     files: 641
   Autoconf:
     code: 531
@@ -118,19 +118,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 788781
-    blanks: 212932
-    files: 17623
+    comments: 789830
+    blanks: 213117
+    files: 17651
   ReStructuredText:
     code: 0
     comments: 0
     blanks: 0
     files: 2
 total:
-  code: 3385747
-  comments: 790741
-  blanks: 271199
-  files: 18865
+  code: 3393564
+  comments: 791790
+  blanks: 271468
+  files: 18893
 ---
 date: "2026-09-07"
 repo:

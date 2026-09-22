@@ -14,12 +14,12 @@ x install tencentcloud-cli
 
 ## Code insight
 
-Total: **3,429,712** lines of code across **1247** files in the top 5 languages.
+Total: **3,432,994** lines of code across **1247** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 2,520,372 | 0 | 0 | 598 |
-| Python | 908,749 | 1,871 | 58,768 | 645 |
+| Json | 2,522,994 | 0 | 0 | 598 |
+| Python | 909,409 | 1,871 | 58,804 | 645 |
 | Autoconf | 531 | 0 | 0 | 2 |
 | Toml | 34 | 0 | 4 | 1 |
 | Ini | 23 | 0 | 3 | 1 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.0.13.1` (2018-07-02)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-09-21
 
 ## Popularity
 
@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 67 · **Open PRs**: 10 · **Closed issues**: 32 · **Open issues**: 8 · **Commits**: 1690
+- **Releases**: 1 · **Merged PRs**: 67 · **Open PRs**: 10 · **Closed issues**: 32 · **Open issues**: 8 · **Commits**: 1691
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 1 | 1 | 0 | 0 | 11 |
-| last60d | 2026-07-23 | 0 | 3 | 1 | 0 | 2 | 37 |
-| 90d | 2026-06-23 | 0 | 3 | 3 | 1 | 3 | 56 |
-| last180d | 2026-03-25 | 0 | 8 | 4 | 1 | 3 | 117 |
-| 360d | 2025-09-26 | 0 | 14 | 7 | 1 | 4 | 207 |
-| last720d | 2024-10-01 | 0 | 20 | 10 | 3 | 5 | 410 |
+| 30d | 2026-08-23 | 0 | 1 | 1 | 0 | 0 | 12 |
+| last60d | 2026-07-24 | 0 | 3 | 1 | 0 | 2 | 38 |
+| 90d | 2026-06-24 | 0 | 3 | 3 | 1 | 3 | 57 |
+| last180d | 2026-03-26 | 0 | 8 | 4 | 1 | 3 | 118 |
+| 360d | 2025-09-27 | 0 | 14 | 7 | 1 | 4 | 208 |
+| last720d | 2024-10-02 | 0 | 20 | 10 | 3 | 5 | 411 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for tencentcloud-cli lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:25:15Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:08:35Z._

@@ -4,7 +4,7 @@
 
 Tencent Cloud API 3.0 Command Line Interface
 
-[![x-cmd/install — tencentcloud-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/tencentcloud-cli.svg)](https://x-cmd.com/install/tencentcloud-cli)
+[![x-cmd/install — tencentcloud-cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/tencentcloud-cli.svg)](https://x-cmd.com/install/tencentcloud-cli)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install tencentcloud-cli
 
 ## Code insight
 
-Total: **3,432,994** lines of code across **1247** files in the top 5 languages.
+Total: **3,442,031** lines of code across **1251** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 2,522,994 | 0 | 0 | 598 |
-| Python | 909,409 | 1,871 | 58,804 | 645 |
+| Json | 2,529,810 | 0 | 0 | 600 |
+| Python | 911,630 | 1,873 | 58,949 | 647 |
 | Autoconf | 531 | 0 | 0 | 2 |
 | Toml | 34 | 0 | 4 | 1 |
 | Ini | 23 | 0 | 3 | 1 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.0.13.1` (2018-07-02)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 
 ## Popularity
 
@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 67 · **Open PRs**: 10 · **Closed issues**: 32 · **Open issues**: 8 · **Commits**: 1691
+- **Releases**: 1 · **Merged PRs**: 67 · **Open PRs**: 10 · **Closed issues**: 32 · **Open issues**: 8 · **Commits**: 1692
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 1 | 1 | 0 | 0 | 12 |
-| last60d | 2026-07-24 | 0 | 3 | 1 | 0 | 2 | 38 |
-| 90d | 2026-06-24 | 0 | 3 | 3 | 1 | 3 | 57 |
-| last180d | 2026-03-26 | 0 | 8 | 4 | 1 | 3 | 118 |
-| 360d | 2025-09-27 | 0 | 14 | 7 | 1 | 4 | 208 |
-| last720d | 2024-10-02 | 0 | 20 | 10 | 3 | 5 | 411 |
+| 30d | 2026-08-24 | 0 | 1 | 1 | 0 | 0 | 13 |
+| last60d | 2026-07-25 | 0 | 3 | 1 | 0 | 2 | 39 |
+| 90d | 2026-06-25 | 0 | 3 | 3 | 1 | 3 | 58 |
+| last180d | 2026-03-27 | 0 | 8 | 4 | 1 | 3 | 119 |
+| 360d | 2025-09-28 | 0 | 14 | 7 | 1 | 4 | 209 |
+| last720d | 2024-10-03 | 0 | 20 | 10 | 3 | 5 | 412 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for tencentcloud-cli lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:08:35Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:05:39Z._

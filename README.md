@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 0 | 2 | 0 | 0 | 12 |
-| last60d | 2026-08-07 | 0 | 2 | 2 | 0 | 2 | 34 |
-| 90d | 2026-07-08 | 0 | 3 | 3 | 1 | 3 | 55 |
-| last180d | 2026-04-09 | 0 | 8 | 4 | 1 | 3 | 115 |
-| 360d | 2025-10-11 | 0 | 14 | 7 | 1 | 4 | 210 |
-| last720d | 2024-10-16 | 0 | 19 | 10 | 3 | 5 | 412 |
+| 30d | 2026-09-07 | 0 | 0 | 2 | 0 | 0 | 12 |
+| last60d | 2026-08-08 | 0 | 2 | 2 | 0 | 2 | 34 |
+| 90d | 2026-07-09 | 0 | 3 | 3 | 1 | 3 | 55 |
+| last180d | 2026-04-10 | 0 | 8 | 4 | 1 | 3 | 115 |
+| 360d | 2025-10-12 | 0 | 14 | 7 | 1 | 4 | 210 |
+| last720d | 2024-10-17 | 0 | 19 | 10 | 3 | 5 | 411 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for tencentcloud-cli lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:25:49Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:08:09Z._

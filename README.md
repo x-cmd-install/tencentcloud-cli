@@ -14,11 +14,11 @@ x install tencentcloud-cli
 
 ## Code insight
 
-Total: **3,460,662** lines of code across **1251** files in the top 5 languages.
+Total: **3,460,854** lines of code across **1251** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 2,545,086 | 0 | 0 | 600 |
+| Json | 2,545,278 | 0 | 0 | 600 |
 | Python | 914,985 | 1,873 | 59,132 | 647 |
 | Autoconf | 531 | 0 | 0 | 2 |
 | Toml | 34 | 0 | 4 | 1 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.0.13.1` (2018-07-02)
-- **Last commit**: 2026-10-04
+- **Last commit**: 2026-10-08
 
 ## Popularity
 
@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 67 · **Open PRs**: 10 · **Closed issues**: 32 · **Open issues**: 8 · **Commits**: 1698
+- **Releases**: 1 · **Merged PRs**: 67 · **Open PRs**: 10 · **Closed issues**: 32 · **Open issues**: 8 · **Commits**: 1699
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 0 | 2 | 0 | 0 | 12 |
-| last60d | 2026-08-09 | 0 | 2 | 2 | 0 | 2 | 34 |
-| 90d | 2026-07-10 | 0 | 3 | 3 | 1 | 3 | 55 |
-| last180d | 2026-04-11 | 0 | 8 | 4 | 1 | 3 | 115 |
-| 360d | 2025-10-13 | 0 | 14 | 7 | 1 | 4 | 210 |
-| last720d | 2024-10-18 | 0 | 19 | 10 | 3 | 5 | 411 |
+| 30d | 2026-09-10 | 0 | 0 | 2 | 0 | 0 | 13 |
+| last60d | 2026-08-11 | 0 | 2 | 2 | 0 | 2 | 35 |
+| 90d | 2026-07-12 | 0 | 3 | 3 | 1 | 3 | 56 |
+| last180d | 2026-04-13 | 0 | 8 | 4 | 1 | 3 | 116 |
+| 360d | 2025-10-15 | 0 | 14 | 7 | 1 | 4 | 211 |
+| last720d | 2024-10-20 | 0 | 19 | 10 | 3 | 5 | 410 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for tencentcloud-cli lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:08:19Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:56:37Z._

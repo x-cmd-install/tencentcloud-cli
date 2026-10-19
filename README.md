@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 67 · **Open PRs**: 12 · **Closed issues**: 32 · **Open issues**: 8 · **Commits**: 1701
+- **Releases**: 1 · **Merged PRs**: 67 · **Open PRs**: 14 · **Closed issues**: 32 · **Open issues**: 8 · **Commits**: 1701
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 0 | 4 | 0 | 0 | 9 |
-| last60d | 2026-08-19 | 0 | 1 | 4 | 0 | 1 | 24 |
-| 90d | 2026-07-20 | 0 | 3 | 4 | 0 | 2 | 50 |
-| last180d | 2026-04-21 | 0 | 8 | 6 | 1 | 3 | 108 |
-| 360d | 2025-10-23 | 0 | 13 | 9 | 1 | 4 | 206 |
-| last720d | 2024-10-28 | 0 | 18 | 12 | 3 | 5 | 407 |
+| 30d | 2026-09-19 | 0 | 0 | 6 | 0 | 0 | 9 |
+| last60d | 2026-08-20 | 0 | 1 | 6 | 0 | 1 | 24 |
+| 90d | 2026-07-21 | 0 | 3 | 6 | 0 | 2 | 50 |
+| last180d | 2026-04-22 | 0 | 8 | 8 | 1 | 3 | 108 |
+| 360d | 2025-10-24 | 0 | 13 | 11 | 1 | 4 | 206 |
+| last720d | 2024-10-29 | 0 | 18 | 14 | 3 | 5 | 407 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for tencentcloud-cli lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:34:00Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:53:49Z._

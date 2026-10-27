@@ -14,23 +14,23 @@ x install tencentcloud-cli
 
 ## 代码洞察
 
-合计: **3,527,810** 行代码（覆盖前 5 种语言、共 **1257** 个文件）。
+合计: **3,529,399** 行代码（覆盖前 5 种语言、共 **1257** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Json | 2,596,099 | 0 | 0 | 600 |
-| Python | 931,120 | 1,882 | 60,216 | 653 |
+| Json | 2,597,908 | 0 | 0 | 600 |
+| Python | 930,900 | 1,882 | 60,204 | 653 |
 | Autoconf | 531 | 0 | 0 | 2 |
 | Toml | 34 | 0 | 4 | 1 |
 | Ini | 23 | 0 | 3 | 1 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.6 / 10**
+总评分: **4.8 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,7 +42,7 @@ x install tencentcloud-cli
 ## 发布
 
 - **最新版本**: `3.0.13.1` (2018-07-02)
-- **最近提交**: 2026-10-25
+- **最近提交**: 2026-10-26
 
 ## 流行度
 
@@ -50,18 +50,18 @@ x install tencentcloud-cli
 
 ## 累计统计
 
-- **发布数**: 1 · **已合并 PR**: 69 · **开放 PR**: 12 · **已关闭 issue**: 32 · **开放 issue**: 8 · **提交数**: 1709
+- **发布数**: 1 · **已合并 PR**: 69 · **开放 PR**: 12 · **已关闭 issue**: 32 · **开放 issue**: 8 · **提交数**: 1710
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 1 | 4 | 0 | 0 | 13 |
-| last60d | 2026-08-27 | 0 | 3 | 4 | 0 | 0 | 30 |
-| 90d | 2026-07-28 | 0 | 5 | 4 | 0 | 2 | 51 |
-| last180d | 2026-04-29 | 0 | 9 | 6 | 1 | 3 | 113 |
-| 360d | 2025-10-31 | 0 | 15 | 9 | 1 | 4 | 213 |
-| last720d | 2024-11-05 | 0 | 19 | 12 | 3 | 5 | 414 |
+| 30d | 2026-09-27 | 0 | 1 | 4 | 0 | 0 | 14 |
+| last60d | 2026-08-28 | 0 | 3 | 4 | 0 | 0 | 31 |
+| 90d | 2026-07-29 | 0 | 5 | 4 | 0 | 2 | 52 |
+| last180d | 2026-04-30 | 0 | 9 | 6 | 1 | 3 | 114 |
+| 360d | 2025-11-01 | 0 | 15 | 9 | 1 | 4 | 214 |
+| last720d | 2024-11-06 | 0 | 19 | 12 | 3 | 5 | 415 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ tencentcloud-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261026.yml` · 2026-10-26T04:45:45Z._
+_数据快照: `data/card/261027.yml` · 2026-10-27T05:10:33Z._

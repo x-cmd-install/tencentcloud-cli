@@ -14,23 +14,23 @@ x install tencentcloud-cli
 
 ## Code insight
 
-Total: **3,527,810** lines of code across **1257** files in the top 5 languages.
+Total: **3,529,399** lines of code across **1257** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 2,596,099 | 0 | 0 | 600 |
-| Python | 931,120 | 1,882 | 60,216 | 653 |
+| Json | 2,597,908 | 0 | 0 | 600 |
+| Python | 930,900 | 1,882 | 60,204 | 653 |
 | Autoconf | 531 | 0 | 0 | 2 |
 | Toml | 34 | 0 | 4 | 1 |
 | Ini | 23 | 0 | 3 | 1 |
 
 ## OpenSSF Scorecard
 
-Overall score: **4.6 / 10**
+Overall score: **4.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.0.13.1` (2018-07-02)
-- **Last commit**: 2026-10-25
+- **Last commit**: 2026-10-26
 
 ## Popularity
 
@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 69 · **Open PRs**: 12 · **Closed issues**: 32 · **Open issues**: 8 · **Commits**: 1709
+- **Releases**: 1 · **Merged PRs**: 69 · **Open PRs**: 12 · **Closed issues**: 32 · **Open issues**: 8 · **Commits**: 1710
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 1 | 4 | 0 | 0 | 13 |
-| last60d | 2026-08-27 | 0 | 3 | 4 | 0 | 0 | 30 |
-| 90d | 2026-07-28 | 0 | 5 | 4 | 0 | 2 | 51 |
-| last180d | 2026-04-29 | 0 | 9 | 6 | 1 | 3 | 113 |
-| 360d | 2025-10-31 | 0 | 15 | 9 | 1 | 4 | 213 |
-| last720d | 2024-11-05 | 0 | 19 | 12 | 3 | 5 | 414 |
+| 30d | 2026-09-27 | 0 | 1 | 4 | 0 | 0 | 14 |
+| last60d | 2026-08-28 | 0 | 3 | 4 | 0 | 0 | 31 |
+| 90d | 2026-07-29 | 0 | 5 | 4 | 0 | 2 | 52 |
+| last180d | 2026-04-30 | 0 | 9 | 6 | 1 | 3 | 114 |
+| 360d | 2025-11-01 | 0 | 15 | 9 | 1 | 4 | 214 |
+| last720d | 2024-11-06 | 0 | 19 | 12 | 3 | 5 | 415 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for tencentcloud-cli lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:45:44Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:10:33Z._

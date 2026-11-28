@@ -7,7 +7,7 @@ about:
   latestVersion: "3.0.13.1"
   latestRelease: "3.0.13.1"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:35:50Z
+  collectedAt: 2026-11-28T08:08:43Z
 timeline:
   created: 2018-04-24
   lastCommit: 2026-11-27
@@ -28,47 +28,47 @@ language:
 totalBytes: 55051558
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 2
     openPR: 1
     closedIssue: 0
     openIssue: 1
-    commit: 0
+    commit: 21
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 3
     openPR: 2
     closedIssue: 0
     openIssue: 1
-    commit: 0
+    commit: 38
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 5
     openPR: 3
     closedIssue: 0
     openIssue: 1
-    commit: 0
+    commit: 54
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 9
     openPR: 5
     closedIssue: 1
     openIssue: 4
-    commit: 0
+    commit: 119
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 13
     openPR: 8
     closedIssue: 1
     openIssue: 5
-    commit: 0
+    commit: 218
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 21
     openPR: 10
@@ -84,7 +84,7 @@ total:
   commit: 1733
 ---
 path: /home/runner/.x-repo/github.com/TencentCloud/tencentcloud-cli
-collectedAt: 2026-11-27T08:37:26Z
+collectedAt: 2026-11-28T08:10:26Z
 loc:
   Json:
     code: 2607777
